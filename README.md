@@ -1,4 +1,4 @@
-# Employee Management System using Python
+🐍 Employee Management System
 
 ## 📌 Description
 This is a menu-driven Employee Management System developed using Python. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on employee records.
